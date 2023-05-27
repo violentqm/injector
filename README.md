@@ -1,1 +1,2 @@
-# injector
+# Simple CSGO injecor
+by Vio
