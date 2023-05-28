@@ -1,2 +1,4 @@
 # Simple CSGO injecor
-by Vio
+Use with dll cheats
+like medusa.uno
+
